@@ -2,7 +2,9 @@
 
 ### An iOS Drawing & Photo-editing app
 
-<img src="/images/empty.png" width="170"> <img src="/images/camera.png" width="170"> <img src="/images/tools.png" width="170"> <img src="/images/sunset.png" width="170"> <img src="/images/cat.png" width="170">
+<img src="/images/empty.png" width="170"> <img src="/images/camera.png" width="170"> <img src="/images/tools.png" width="170"> <img src="/images/sunset.png" width="170"> <img src="/images/cat.png" width="170"><img src="/images/test.gif" width="170">
+
+
 
 ### Overview
 
